@@ -26,6 +26,7 @@ Project-specific facts (env quirks, pending decisions, one-off history) stay in 
 @claude-instructions/swagger-update-rule.md
 @claude-instructions/shared-form-primitives.md
 @claude-instructions/modal-scroll-lock.md
+@claude-instructions/shared-font-selection.md
 
 ## Infrastructure
 
