@@ -52,6 +52,7 @@ The index imports each rule with `@claude-instructions/<file>.md`. Claude Code r
 | [`swagger-update-rule.md`](swagger-update-rule.md) | A new or changed API route updates `lib/openapi.ts` |
 | [`shared-form-primitives.md`](shared-form-primitives.md) | Admin dropdowns and date fields use the shared components, never native widgets |
 | [`modal-scroll-lock.md`](modal-scroll-lock.md) | Every full-screen overlay locks the page behind it (`useLockBodyScroll`) |
+| [`shared-font-selection.md`](shared-font-selection.md) | Every project's font pickers offer the same 26 fonts (24 in a paid product), from `lib/fonts/catalog.ts` |
 
 **Infrastructure**
 
