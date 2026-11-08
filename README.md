@@ -53,6 +53,7 @@ The index imports each rule with `@claude-instructions/<file>.md`. Claude Code r
 | [`shared-form-primitives.md`](shared-form-primitives.md) | Admin dropdowns and date fields use the shared components, never native widgets |
 | [`modal-scroll-lock.md`](modal-scroll-lock.md) | Every full-screen overlay locks the page behind it (`useLockBodyScroll`) |
 | [`shared-font-selection.md`](shared-font-selection.md) | Every project's font pickers offer the same 26 fonts (24 in a paid product), from `lib/fonts/catalog.ts` |
+| [`lighthouse-100.md`](lighthouse-100.md) | Public pages aim for 100 in all four Lighthouse categories on mobile: how to measure, what to fix, no gaming the score |
 
 **Infrastructure**
 

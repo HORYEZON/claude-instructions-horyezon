@@ -27,6 +27,7 @@ Project-specific facts (env quirks, pending decisions, one-off history) stay in 
 @claude-instructions/shared-form-primitives.md
 @claude-instructions/modal-scroll-lock.md
 @claude-instructions/shared-font-selection.md
+@claude-instructions/lighthouse-100.md
 
 ## Infrastructure
 
